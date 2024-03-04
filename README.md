@@ -128,8 +128,9 @@ if(m>5)
  
  
  
+![image](https://github.com/Vasanth2k4/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/147139769/5c933e7e-7b05-4721-a038-4b7c3d096eba)
+![image](https://github.com/Vasanth2k4/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/147139769/b3281f19-ed13-43e9-9a4b-f2ce18260221)
 
-![image](https://user-images.githubusercontent.com/36288975/188804653-a3154e8e-2655-46f2-9dcd-f425dd1ba109.png)
 
 
 ### TABLE -02 standard deviation table 
@@ -145,9 +146,8 @@ N is the total number of values
 
 For those unfamiliar with summation notation, the equation above may seem daunting, but when addressed through its individual components, this summation is not particularly complicated. The i=1 in the summation indicates the starting index, i.e. for the data set 1, 3, 4, 7, 8, i=1 would be 1, i=2 would be 3, and so on. Hence the summation notation simply means to perform the operation of (xi - μ)2 on each value through N, which in this case is 5 since there are 5 values in this data set.
 
-EX:           μ = (1+3+4+7+8) / 5 = 4.6        
-σ = √[(1 - 4.6)2 + (3 - 4.6)2 + ... + (8 - 4.6)2)]/5
-σ = √(12.96 + 2.56 + 0.36 + 5.76 + 11.56)/5 = 2.577
+EX: μ = (1+3+4+7+8) / 5 = 4.6
+σ = √[(1 - 4.6)2 + (3 - 4.6)2 + ... + (8 - 4.6)2)]/5 σ = √(12.96 + 2.56 + 0.36 + 5.76 + 11.56)/5 = 2.577
 
 
 
